@@ -136,7 +136,7 @@ Agregar evento único.
 -   `nombre` (string, requerido)
 -   `hora` (string, requerido, formato HH:MM)
 -   `tipo` (string, requerido)
--   `dia` (string, requerido) — Lunes a Domingo o "none"
+-   `dia` (string, requerido) — Lunes a Domingo o Ninguno
 -   `avisar` (string, opcional) — Minutos antes de notificación  
     **Acceso:** `role-restricted`
 
@@ -147,7 +147,7 @@ Agregar evento recurrente.
 -   `nombre` (string, requerido)
 -   `hora` (string, requerido, formato HH:MM)
 -   `tipo` (string, requerido)
--   `dia` (string, requerido) — Día o "all"
+-   `dia` (string, requerido) — Día o Todos
 -   `avisar` (string, opcional)
 -   `eliminar` (bool, opcional) — Si elimina parties al finalizar  
     **Acceso:** `role-restricted`
