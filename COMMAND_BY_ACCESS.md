@@ -7,9 +7,9 @@
 ## Índice rápido
 
 -   [everyone (todos)](#everyone-todos)
--   [w-only](#w-only)
--   [role-restricted](#role-restricted)
--   [owner-only](#owner-only)
+-   [w-only (dueño del bot)](#w-only-dueño-del-bot) 
+-   [role-restricted(rol de administrador)](#role-restricted-rol-de-administrador)
+-   [owner-only (dueño del server)](#owner-only-dueño-del-server)
 -   [Contacto](#contacto)
 
 ---
