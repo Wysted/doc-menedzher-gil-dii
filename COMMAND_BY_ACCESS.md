@@ -7,7 +7,7 @@
 ## Índice rápido
 
 -   [everyone (todos)](#everyone-todos)
--   [w-only](#w-only)
+-   [w-only](#w-only) 
 -   [role-restricted](#role-restricted)
 -   [owner-only](#owner-only)
 -   [Contacto](#contacto)
