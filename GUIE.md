@@ -30,13 +30,22 @@
 
 ## 🔔 Paso 3: Canal de Notificaciones
 
-Configura dónde se avisarán los eventos del guild:
+Puedes configurar qué tipo de eventos deseas anunciar y en qué canal se publicarán.
+Un canal puede ser asignado a múltiples tipos de evento.
+Además, puedes asignar un rol opcional que será mencionado en los avisos.
+---
+### Tipos de Aviso:
+- Individual: Se notificará cada evento por separado cuando falte un tiempo específico.
+- Resumen: Se mostrará una lista con todos los eventos próximos.
 
 /notification assign-channel tipo: "evento" canal: #eventos notification-type: "Resumen" role: @GuildMember
 
 ---
 
-## 📅 Paso 4: Eventos PvE y PvP
+## 📅 Paso 4: Eventos PvE, PvP y Tipo de evento
+
+### Crear tipo evento
+/event type add nombre: PvP 
 
 ### 🩸 Crear evento único — _Blood Castle_
 
