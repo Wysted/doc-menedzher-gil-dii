@@ -44,6 +44,11 @@ Actualizar la zona horaria del servidor.
 -   `utc` (string, requerido) — Seleccionar zona horaria  
     **Acceso:** `role-restricted`
 
+### `/server mysub`
+
+Ver cuanto tiempo te queda de subscripcion.
+**Acceso:** `owner-only`
+
 ### `/server rol-admin`
 
 Asignar rol como administrador.
