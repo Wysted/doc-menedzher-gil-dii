@@ -130,6 +130,10 @@ Limpiar mensajes.
 
 ## owner-only (solo dueño del servidor)
 
+### `/server mysub`
+
+Ver cuanto tiempo queda de subscripcion.
+
 ### `/server rol-admin`
 
 Asignar rol administrador.
