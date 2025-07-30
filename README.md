@@ -22,20 +22,8 @@
 
 ### `/server add`
 
-Registrar un servidor Discord en la base de datos.  
-**Acceso:** `w-only`
-
-### `/server list`
-
-Listar todos los servidores registrados.  
-**Acceso:** `w-only`
-
-### `/server delete`
-
-Eliminar un servidor Discord.
-
--   `servidor` (string, requerido) — Seleccionar servidor  
-    **Acceso:** `w-only`
+Registrar un servidor Discord.
+**Acceso:** `owner-only`
 
 ### `/server update`
 
